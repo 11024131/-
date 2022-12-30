@@ -2,13 +2,13 @@
 人臉辨識 
 
 # 目錄
-●資料收集
+●Data collection(資料收集)
 
-●模型訓練
+●Model training(模型訓練)
 
-●匯入模組
+●Importing Various Modules(匯入模組)
 
-●進行作業
+●Evaluating the Model Performance(評估分析)
 
 # 資料收集
 ●準備一個可以打開google colab 的帳號
@@ -31,7 +31,7 @@
 
 3.讀入 photos.zip。 
 
-# 進行作業
+# 評估分析
 
 ● 照片展示程式 
    - verify 看兩個人是不是同一個人:這裡的重點是 verified, 看是否為同一個人。
