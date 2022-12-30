@@ -1,4 +1,3 @@
-This site was built using [GitHub Pages](https://pages.github.com/).
 
 # DeepFace, 南華大學
 人臉辨識 
