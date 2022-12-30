@@ -1,6 +1,8 @@
+This site was built using [GitHub Pages](https://pages.github.com/).
+
 # DeepFace, 南華大學
 人臉辨識 
-The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
+
 
 # Table of Contents
 ●Data collection(資料收集)
