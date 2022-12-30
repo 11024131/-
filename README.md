@@ -1,7 +1,7 @@
 # DeepFace, 南華大學
 人臉辨識 
 
-# 目錄
+# Table of Contents
 ●Data collection(資料收集)
 
 ●Model training(模型訓練)
@@ -29,7 +29,10 @@
 
 2.再來就是解壓縮。
 
-3.讀入 photos.zip。 
+3.讀入 photos.zip
+
+在 /content/photos 這個資料夾下的架構如下: 
+   - faces: 每個人有獨立的資料夾。 
 
 # 評估分析
 
@@ -37,6 +40,5 @@
    - verify 看兩個人是不是同一個人:這裡的重點是 verified, 看是否為同一個人。
      - analyze 分析一下照片中這個人:分析一下照片中這個人的性別、年齡、種族、情緒! 
 
-
-
-參考資料：Deep-Learning-Basics/colab08 用 DeepFace 神速打造人臉辨識.ipynb at master · yenlung/Deep-Learning-Basics · GitHub 
+# 參考資料：
+Deep-Learning-Basics/colab08 用 DeepFace 神速打造人臉辨識.ipynb at master · yenlung/Deep-Learning-Basics · GitHub 
