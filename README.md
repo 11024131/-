@@ -43,4 +43,4 @@
      - analyze 分析一下照片中這個人:分析一下照片中這個人的性別、年齡、種族、情緒! 
 
 # 參考資料：
-Deep-Learning-Basics/colab08 用 DeepFace 神速打造人臉辨識.ipynb at master · yenlung/Deep-Learning-Basics · GitHub 
+(Deep-Learning-Basics/colab08) 用 DeepFace 神速打造人臉辨識.ipynb at master · yenlung/Deep-Learning-Basics · GitHub 
